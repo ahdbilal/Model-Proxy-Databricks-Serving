@@ -14,7 +14,7 @@ _Please be aware that when updating the mode, the previous container with depend
 
 This example uses the below two concepts. Please read and review the following articles:
 - https://docs.databricks.com/en/machine-learning/model-serving/deploy-custom-models.html
-- https://shield-databricks.okta.com/login/login.htm?fromURI=%2Fapp%2Fsalesforce%2Fexkp5moboM8x0CARR4h6%2Fsso%2Fsaml
+- https://docs.databricks.com/en/machine-learning/model-serving/store-env-variable-model-serving.html#
 
 <b>Getting Started</b>
 
